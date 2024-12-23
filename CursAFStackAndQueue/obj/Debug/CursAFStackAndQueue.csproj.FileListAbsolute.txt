@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\bin\Debug\CursAFStackAndQueue.exe.config
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\bin\Debug\CursAFStackAndQueue.exe
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\bin\Debug\CursAFStackAndQueue.pdb
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\obj\Debug\CursAFStackAndQueue.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\obj\Debug\CursAFStackAndQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\obj\Debug\CursAFStackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\obj\Debug\CursAFStackAndQueue.exe
+C:\Users\rotar\source\repos\CursAF_console\CursAFStackAndQueue\obj\Debug\CursAFStackAndQueue.pdb
