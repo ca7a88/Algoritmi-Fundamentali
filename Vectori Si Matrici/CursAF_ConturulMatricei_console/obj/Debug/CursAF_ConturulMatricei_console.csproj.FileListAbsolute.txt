@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\bin\Debug\CursAF_ConturulMatricei_console.exe.config
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\bin\Debug\CursAF_ConturulMatricei_console.exe
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\bin\Debug\CursAF_ConturulMatricei_console.pdb
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\obj\Debug\CursAF_ConturulMatricei_console.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\obj\Debug\CursAF_ConturulMatricei_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\obj\Debug\CursAF_ConturulMatricei_console.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\obj\Debug\CursAF_ConturulMatricei_console.exe
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_ConturulMatricei_console\obj\Debug\CursAF_ConturulMatricei_console.pdb

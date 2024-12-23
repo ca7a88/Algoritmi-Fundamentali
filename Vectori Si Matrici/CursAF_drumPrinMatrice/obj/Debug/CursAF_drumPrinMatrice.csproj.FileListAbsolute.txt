@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\bin\Debug\CursAF_drumPrinMatrice.exe.config
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\bin\Debug\CursAF_drumPrinMatrice.exe
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\bin\Debug\CursAF_drumPrinMatrice.pdb
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\obj\Debug\CursAF_drumPrinMatrice.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\obj\Debug\CursAF_drumPrinMatrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\obj\Debug\CursAF_drumPrinMatrice.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\obj\Debug\CursAF_drumPrinMatrice.exe
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_drumPrinMatrice\obj\Debug\CursAF_drumPrinMatrice.pdb
