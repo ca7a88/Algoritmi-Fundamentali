@@ -1,0 +1,7 @@
+C:\Users\rotar\source\repos\exercitiiFP\bin\Debug\exercitiiFP.exe.config
+C:\Users\rotar\source\repos\exercitiiFP\bin\Debug\exercitiiFP.exe
+C:\Users\rotar\source\repos\exercitiiFP\bin\Debug\exercitiiFP.pdb
+C:\Users\rotar\source\repos\exercitiiFP\obj\Debug\exercitiiFP.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\exercitiiFP\obj\Debug\exercitiiFP.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\exercitiiFP\obj\Debug\exercitiiFP.exe
+C:\Users\rotar\source\repos\exercitiiFP\obj\Debug\exercitiiFP.pdb
