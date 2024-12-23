@@ -1,0 +1,8 @@
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\bin\Debug\CursAF_NumerePrime_console.exe.config
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\bin\Debug\CursAF_NumerePrime_console.exe
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\bin\Debug\CursAF_NumerePrime_console.pdb
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\obj\Debug\CursAF_NumerePrime_console.csproj.AssemblyReference.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\obj\Debug\CursAF_NumerePrime_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\obj\Debug\CursAF_NumerePrime_console.csproj.CoreCompileInputs.cache
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\obj\Debug\CursAF_NumerePrime_console.exe
+C:\Users\rotar\source\repos\CursAF_ProblemeVectori_console\CursAF_NumerePrime_console\obj\Debug\CursAF_NumerePrime_console.pdb
